@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/brndhn/dashboard.svg?branch=master)](https://travis-ci.org/brndhn/dashboard) [![Code Climate](https://codeclimate.com/github/brndhn/dashboard/badges/gpa.svg)](https://codeclimate.com/github/brndhn/dashboard)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brndhn/dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brndhn/dashboard/issues"
+  },
+  "homepage": "https://github.com/brndhn/dashboard#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
