@@ -1,0 +1,14 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.title{
+	text-align: center;
+	border: 2px solid red;
+}
+
+.goButton{
+	border: 2px solid red;
+	width: 100%;
+}
